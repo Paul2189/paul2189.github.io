@@ -7,8 +7,8 @@ A collection of statistical analyses and reports that I did for different projec
 | Analysis | Report |
 |---|---|
 | Sleep – Quality and Duration | [View report](reports/sleep_analysis.html) |
-| Analysis 2 | [View report](reports/PS1_solutions.pdf) |
-| Analysis 3 | [View report](reports/PS2_solutions.pdf) |
+| Problem Set Solutions 1 | [View report](reports/PS1_solutions.pdf) |
+| Problem Set Solutions 2 | [View report](reports/PS2_solutions.pdf) |
 
 ## About
 

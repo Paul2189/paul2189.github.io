@@ -9,7 +9,7 @@ A collection of statistical analyses and reports that I did for different projec
 | Sleep – Quality and Duration | [View report](reports/sleep_analysis.html) |
 | Problem Set Solutions 1 | [View report](reports/PS1_solutions.pdf) |
 | Problem Set Solutions 2 | [View report](reports/PS2_solutions.pdf) |
-| Covid 19 Cases - Descriptive Analysis for Italy and France | [View report](reports/python_project.pdf) |
+| Covid 19 Cases - Descriptive Analysis for Italy and France | [View report](reports/python_project.html) |
 
 ## About
 
